@@ -29,7 +29,7 @@
 
 # Visitors
 
-<h3 align="left">
+<h3 align="center">Visitors<br>
   <img src="https://hgithub.glitch.me/count.svg" />
 </h3>
 <br>
