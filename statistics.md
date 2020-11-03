@@ -7,13 +7,6 @@
 </a>
 <br><br>
 
-# Visitors
-
-<a href="https://github.com/gammasoft71">
-  <img align="left" src="https://hgithub.glitch.me/count.svg">
-</a>
-<br><br>
-
 # Languages
 
 <a href="https://github.com/gammasoft71?tab=repositories">
@@ -24,6 +17,13 @@
 # Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox" />
+</a>
+<br><br>
+
+# Visitors
+
+<a href="https://github.com/gammasoft71">
+  <img align="left" src="https://hgithub.glitch.me/count.svg">
 </a>
 <br><br>
