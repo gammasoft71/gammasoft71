@@ -1,85 +1,30 @@
-# Gammasoft
+| [Home](README.md) | [libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
 
-## Gammasoft is...
+# Examples
 
-* only a developer nickname.
-* More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
-* Object-oriented programming is more than a mindset.
+Shows how to use Gui controls with some common toolkits.
 
-## xtd (main project)
+|                                                                                                       | Examples                                                          | Language                                                                                                                                           | Github sources                                                                                     | SourceForge projects                                                | Downloads                                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![xtdforms_logo](Docs/Pictures/xtd_forms.png)](https://gammasoft71.wixsite.com/gammasoft)            | [xtd_forms](https://gammasoft71.wixsite.com/gammasoft)            | [C++](https://isocpp.org)                                                                                                                          | [xtd_forms/examples](https://github.com/gammasoft71/xtd_forms/tree/master/examples)                | [xtd_forms](https://sourceforge.net/projects/formspro/)             | [![Download xtd_forms](https://img.shields.io/sourceforge/dt/formspro.svg)](https://sourceforge.net/projects/formspro/files/latest/download)                            |
+| [![winforms_logo](Docs/Pictures/Winforms.png)](https://gammasoft71.wixsite.com/gammasoft/csharp)      | [Winforms](https://gammasoft71.wixsite.com/gammasoft/csharp)      | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)                                                                                              | [Examples_CSharp](https://github.com/gammasoft71/Examples_CSharp/tree/master/System.Windows.Forms) | [csharpexample](https://sourceforge.net/p/csharpexample/)           | [![Download Examples_CSharp](https://img.shields.io/sourceforge/dt/csharpexample.svg)](https://sourceforge.net/projects/csharpexample/files/latest/download)            |
+| [![cocoa_logo](Docs/Pictures/Cocoa.png)](https://gammasoft71.wixsite.com/gammasoft/cocoa)             | [Cocoa (AppKit)](https://gammasoft71.wixsite.com/gammasoft/cocoa) | [Objective-c](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) | [Examples_Cocoa](https://github.com/gammasoft71/Examples_Cocoa)                                    | [objectivecexamples](https://sourceforge.net/p/objectivecexamples/) | [![Download Examples_Cocoa](https://img.shields.io/sourceforge/dt/objectivecexamples.svg)](https://sourceforge.net/projects/objectivecexamples/files/latest/download)   |
+| [![fltk_logo](Docs/Pictures/FLTK.png)](https://gammasoft71.wixsite.com/gammasoft/fltk)                | [FLTK](https://gammasoft71.wixsite.com/gammasoft/fltk)            | [C++](https://isocpp.org)                                                                                                                          | [Examples_FLTK](https://github.com/gammasoft71/Examples_FLTK)                                      | [fltkexamples](https://sourceforge.net/p/fltkexamples/)             | [![Download Examples_FLTK](https://img.shields.io/sourceforge/dt/fltkexamples.svg)](https://sourceforge.net/projects/fltkexamples/files/latest/download)                |
+| [![gtk_logo](Docs/Pictures/Gtk.png)](https://gammasoft71.wixsite.com/gammasoft/gtk)                   | [Gtk](https://gammasoft71.wixsite.com/gammasoft/gtk)              | [C++](https://isocpp.org)                                                                                                                          | [Examples_Gtk](https://github.com/gammasoft71/Examples_Gtk)                                        | [gtkexamples](https://sourceforge.net/p/gtkexamples/)               | [![Download Examples_Gtk](https://img.shields.io/sourceforge/dt/gtkexamples.svg)](https://sourceforge.net/projects/gtkexamples/files/latest/download)                   |
+| [![gtkmm_logo](Docs/Pictures/Gtkmm.png)](https://gammasoft71.wixsite.com/gammasoft/gtkmm)             | [Gtkmm](https://gammasoft71.wixsite.com/gammasoft/gtkmm)          | [C++](https://isocpp.org)                                                                                                                          | [Examples_Gtkmm](https://github.com/gammasoft71/Examples_Gtkmm)                                    | [gtkmmexamples](https://sourceforge.net/p/gtkmmexamples/)           | [![Download Examples_Gtkmm](https://img.shields.io/sourceforge/dt/gtkmmexamples.svg)](https://sourceforge.net/projects/gtkmmexamples/files/latest/download)             |
+| [![tk_logo](Docs/Pictures/Tk.png)](https://gammasoft71.wixsite.com/gammasoft/python)                  | [Tkinter](https://gammasoft71.wixsite.com/gammasoft/python)       | [Python](https://python.org)                                                                                                                       | [Examples_Python](https://github.com/gammasoft71/Examples_Python/tree/master/tkinter)              | [pythonexample](https://sourceforge.net/p/pythonexample/)           | [![Download Examples_Python](https://img.shields.io/sourceforge/dt/pythonexample.svg)](https://sourceforge.net/projects/pythonexample/files/latest/download)            |
+| [![qt_logo](Docs/Pictures/Qt.png)](https://gammasoft71.wixsite.com/gammasoft/qt)                      | [Qt / Qt Quick](https://gammasoft71.wixsite.com/gammasoft/qt)     | [C++](https://isocpp.org)                                                                                                                          | [Examples_Qt](https://github.com/gammasoft71/Examples_Qt)                                          | [qtexample](https://sourceforge.net/p/qtexample/)                   | [![Download Examples_Qt](https://img.shields.io/sourceforge/dt/qtexample.svg)](https://sourceforge.net/projects/qtexample/files/latest/download)                        |
+| [![win32_logo](Docs/Pictures/Win32.png)](https://gammasoft71.wixsite.com/gammasoft/win32)             | [Win32 Api](https://gammasoft71.wixsite.com/gammasoft/win32)      | [C++](https://isocpp.org)                                                                                                                          | [Examples_Win32](https://github.com/gammasoft71/Examples_Win32/tree/master/Win32.Gui)              | [win32examples](https://sourceforge.net/p/win32examples/)           | [![Download Examples_Win32](https://img.shields.io/sourceforge/dt/win32examples.svg)](https://sourceforge.net/projects/win32examples/files/latest/download)             |
+| [![wxPython](Docs/Pictures/wxPython.png)](https://gammasoft71.wixsite.com/gammasoft/python)           | [wxPython](https://gammasoft71.wixsite.com/gammasoft/python)      | [Python](https://python.org)                                                                                                                       | [Examples_Python](https://github.com/gammasoft71/Examples_Python/tree/master/wxPython)             | [pythonexample](https://sourceforge.net/p/pythonexample/)           | [![Download Examples_Python](https://img.shields.io/sourceforge/dt/pythonexample.svg)](https://sourceforge.net/projects/pythonexample/files/latest/download)            |
+| [![wxwidgets_logo](Docs/Pictures/wxWidgets.png)](https://gammasoft71.wixsite.com/gammasoft/wxwidgets) | [wxWidgets](https://gammasoft71.wixsite.com/gammasoft/wxwidgets)  | [C++](https://isocpp.org)                                                                                                                          | [Examples_wxWidgets](https://github.com/gammasoft71/Examples_wxWidgets)                            | [wxwidgetsexamples](https://sourceforge.net/p/wxwidgetsexamples/)   | [![Download Examples_wxWidgets](https://img.shields.io/sourceforge/dt/wxwidgetsexamples.svg)](https://sourceforge.net/projects/wxwidgetsexamples/files/latest/download) |
 
-💾  xtd is modern c++17 multiplatform libraries to create console, gui and unit test applications.
+# Languages
 
-xtd is composed of several libraries grouped by theme :
+|                                                                                                      | Examples                                                       | Github sources                                                    | SourceForge projects                                                | Downloads                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![c_logo](Docs/Pictures/C.png)](https://gammasoft71.wixsite.com/gammasoft/c)                        | [C](https://gammasoft71.wixsite.com/gammasoft/c)               | [Examples_C](https://github.com/gammasoft71/Examples_C)           | [cexamples](https://sourceforge.net/p/cexamples/)                   | [![Download Examples_C](https://img.shields.io/sourceforge/dt/cexamples.svg)](https://sourceforge.net/projects/cexamples/files/latest/download)                      |
+| [![csharp_logo](Docs/Pictures/CSharp.png)](https://gammasoft71.wixsite.com/gammasoft/csharp)         | [C#](https://gammasoft71.wixsite.com/gammasoft/csharp)         | [Examples_CSharp](https://github.com/gammasoft71/Examples_CSharp) | [csharpexample](https://sourceforge.net/p/csharpexample/)           | [![Download Examples_CSharp](https://img.shields.io/sourceforge/dt/csharpexample.svg)](https://sourceforge.net/projects/csharpexample/files/latest/download)         |
+| [![cpp_logo](Docs/Pictures/Cpp.png)](https://gammasoft71.wixsite.com/gammasoft/cpp)                  | [C++](https://gammasoft71.wixsite.com/gammasoft/cpp)           | [Examples_Cpp](https://github.com/gammasoft71/Examples_Cpp)       | [cppexamples](https://sourceforge.net/p/cppexamples/)               | [![Download Examples_Cpp](https://img.shields.io/sourceforge/dt/cppexamples.svg)](https://sourceforge.net/projects/cppexamples/files/latest/download)                |
+| [![objectivec_logo](Docs/Pictures/Objective-c.png)](https://gammasoft71.wixsite.com/gammasoft/cocoa) | [Objective-c](https://gammasoft71.wixsite.com/gammasoft/cocoa) | [Examples_Cocoa](https://github.com/gammasoft71/Examples_Cocoa)   | [objectivecexamples](https://sourceforge.net/p/objectivecexamples/) | [![Download Examples_Cocoa](https://img.shields.io/sourceforge/dt/objectivecexamples.svg)](https://sourceforge.net/projects/objectivecexamples/files/latest/download)|
+| [![python_logo](Docs/Pictures/Python.png)](https://gammasoft71.wixsite.com/gammasoft/python)         | [Python](https://gammasoft71.wixsite.com/gammasoft/python)     | [Examples_Python](https://github.com/gammasoft71/Examples_Python) | [pythonexample](https://sourceforge.net/p/pythonexample/)           | [![Download Examples_Python](https://img.shields.io/sourceforge/dt/pythonexample.svg)](https://sourceforge.net/projects/pythonexample/files/latest/download)         |
 
-### xtd.tunit
-
-The xtd.tunit library is a unit-testing framework for modern C++17. Initially ported from [Microsoft.VisualStudio.TestTools.Cpp](https://docs.microsoft.com/en-us/visualstudio/test/microsoft-visualstudio-testtools-cppunittestframework-api-reference).
- 
-|                                                                                                               | Libraries                                             | Examples                                                                        | Reference guide                                             |
-|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [![xtd_tunit_logo](pictures/xtd.tunit.png)](https://gammasoft71.wixsite.com/xtd-tunit)                        | [xtd.tunit](https://github.com/gammasoft71/xtd_tunit) | [examples](https://github.com/gammasoft71/xtd_tunit/tree/master/examples)       | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_tunit/) |
-
-### xtd.properties
-
-The xtd.properties is another c#-like property accessor for C++11 and above.
-
-|                                                                                                               | Libraries                                                       | Examples                                                                        | Reference guide                                                  |
-|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------|
-| [![xtd_properties_logo](pictures/xtd.properties.png)](https://gammasoft71.wixsite.com/xtd-properties)         | [xtd.properties](https://github.com/gammasoft71/xtd_properties) | [examples](https://github.com/gammasoft71/xtd_properties/tree/master/examples)  | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_properties/) |
-
-### xtd.system
-
-The xtd.core, xtd.delegates, xtd.diagnostics, xtd.io and xtd.strings libraries are modern C++17 libraries of classes, interfaces, and value types that provide access to system functionality. It is the foundation on which c++ applications, components, and controls are built.
-
-|                                                                                                               | Libraries                                                         | Examples                                                                        | Reference guide                                                   |
-|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| [![xtd_core_logo](pictures/xtd.core.png)](https://gammasoft71.wixsite.com/xtd-core)                           | [xtd.core](https://github.com/gammasoft71/xtd_core)               | [examples](https://github.com/gammasoft71/xtd_core/tree/master/examples)        | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_core/)        |
-| [![xtd_delegates_logo](pictures/xtd.delegates.png)](https://gammasoft71.wixsite.com/xtd-delegates)            | [xtd.delegates](https://github.com/gammasoft71/xtd_delegates)     | [examples](https://github.com/gammasoft71/xtd_delegates/tree/master/examples)   | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_delegates/)   |
-| [![xtd_diagnostics_logo](pictures/xtd.diagnostics.png)](https://gammasoft71.wixsite.com/xtd-diagnostics)      | [xtd.diagnostics](https://github.com/gammasoft71/xtd_diagnostics) | [examples](https://github.com/gammasoft71/xtd_diagnostics/tree/master/examples) | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_diagnostics/) |
-| [![xtd_io_logo](pictures/xtd.io.png)](https://gammasoft71.wixsite.com/xtd-io)                                 | [xtd.io](https://github.com/gammasoft71/xtd_io)                   | [examples](https://github.com/gammasoft71/xtd_io/tree/master/examples)          | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_io/)          |
-| [![xtd_strings_logo](pictures/xtd.strings.png)](https://gammasoft71.wixsite.com/xtd-strings)                  | [xtd.strings](https://github.com/gammasoft71/xtd_strings)         | [examples](https://github.com/gammasoft71/xtd_strings/tree/master/examples)     | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_strings/)     |
-
-### xtd.console
-
-The xtd.console library is modern c++17 library to manage console application on Windows, macOS and Linux.
-
-|                                                                                              | Libraries                                             | Examples                                                                        | Reference guide                                               |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------|
-| [![xtd_console_logo](pictures/xtd.console.png)](https://gammasoft71.wixsite.com/xtd-console) | [xtd.console](https://github.com/gammasoft71/xtd_console) | [examples](https://github.com/gammasoft71/xtd_console/tree/master/examples) | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_console/) |
-
-### xtd.forms
-
-The xrd.drawing library contains types that support basic GDI+ graphics functionality. Child namespaces support advanced two-dimensional and vector graphics functionality, advanced imaging functionality, and print-related and typographical services. A child namespace also contains types that extend design-time user-interface logic and drawing.
-
-The xtd.forms library contains classes for creating Windows-based applications that take full advantage of the rich user interface features available in the Microsoft Windows operating system.
-
-|                                                                                              | Libraries                                             | Examples                                                                        | Reference guide                                               |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------|
-| [![xtd_drawing_logo](pictures/xtd.drawing.png)](https://gammasoft71.wixsite.com/xtd-drawing) | [xtd.drawing](https://github.com/gammasoft71/xtd_drawing) | [examples](https://github.com/gammasoft71/xtd_drawing/tree/master/examples)     | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_drawing/) |
-| [![xtd_forms_logo](pictures/xtd.forms.png)](https://gammasoft71.wixsite.com/xtd-forms)       | [xtd.forms](https://github.com/gammasoft71/xtd_forms)   | [examples](https://github.com/gammasoft71/xtd_forms/tree/master/examples)       | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd_forms/)   |
-
-## Statistcis
-
-<a href="https://github.com/gammasoft71">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gammasoft71&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Gammasoft's stats" />
-</a>
-<br><br>
-<a href="https://github.com/gammasoft71?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gammasoft71&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<!---
-<br>
-<br>
-<h3 align="center">Visitors<br>
-  <img src="https://hgithub.glitch.me/count.svg" />
-</h3>
-<br>
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
-  </a>
-</p>
-<br>
---->
