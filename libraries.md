@@ -1,4 +1,4 @@
-| [Home](README.md) | [xtd libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
+| [Home](README.md) | [xtd libraries](libraries.md) | [Examples](examples.md) | [Statistics](statistics.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
 
 [![operating_systems_logo](pictures/operating_systems.png)](https://gammasoft71.wixsite.com/gammasoft)
 
