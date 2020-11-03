@@ -183,8 +183,8 @@ add_sources(hello_world_tunit.cpp)
 target_type(TEST_APPLICATION)
 ```
 
-For more examples see [examples](examples/README.md)
+For more examples see [examples]((https://github.com/gammasoft71/xtd/tree/master/examples/README.md)
 
 # Download and install
 
-Before running examples you must download and install xtd.forms. To download and install it read [downloads](docs/downloads.md) file.
+Before running examples you must download and install xtd.forms. To download and install it read [downloads]((https://github.com/gammasoft71/xtd/tree/master/docs/downloads.md) file.
