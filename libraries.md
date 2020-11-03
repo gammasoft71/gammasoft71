@@ -1,7 +1,4 @@
-| [Home](README.md) | [Libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Gammasoft](https://gammasoft71.wixsite.com/gammasoft) |
-
-![background_img](pictures/gammasoft_background.png)
-
+# Gammasoft
 
 ## Gammasoft is...
 
