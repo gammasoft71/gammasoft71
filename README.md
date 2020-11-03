@@ -1,4 +1,4 @@
-| [Home](README.md) | [xtd libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
+| [Home](README.md) | [libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
 
 # Gammasoft aims to make c++ funny again.
 ![background_img](pictures/gammasoft_background.jpg)
