@@ -23,7 +23,7 @@
 
 # Visitors
 
-<a> 
+<a href="https://github.com/gammasoft71">
   <img align="left" src="https://hgithub.glitch.me/count.svg">
 </a>
 <br><br>
