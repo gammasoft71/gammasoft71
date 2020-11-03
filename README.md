@@ -1,13 +1,15 @@
 | [Home](README.md) | [Libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Gammasoft](https://gammasoft71.wixsite.com/gammasoft) |
 
+# Gammasoft aims to make c++ funny again.
 ![background_img](pictures/gammasoft_background.jpg)
-
 
 ## Gammasoft is...
 
 * only a developer nickname.
 * More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
 * Object-oriented programming is more than a mindset.
+
+![background_img](pictures/gammasoft.png)
 
 ## xtd (main project)
 
