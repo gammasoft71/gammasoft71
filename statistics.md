@@ -16,18 +16,14 @@
 
 # Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
-  </a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
+</a>
 <br><br>
-
 
 # Visitors
 
-<h3 align="center"> 
-  <br>
-  <img src="https://hgithub.glitch.me/count.svg" />
-</h3>
+<a> 
+  <img align="left" src="https://hgithub.glitch.me/count.svg" />
+</a>
 <br><br>
