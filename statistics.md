@@ -17,13 +17,13 @@
 <br>
 <br>
 
-<!---
-<h3 align="center">Visitors<br>
+# Visitors
+
+<h3 align="left">Visitors<br>
   <img src="https://hgithub.glitch.me/count.svg" />
 </h3>
 <br>
 <br>
---->
 
 # Trophies
 
