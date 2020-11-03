@@ -19,7 +19,7 @@
 
 # Main Project
 
-💾  [![xtd_logo](pictures/xtd.png)](https://gammasoft71.wixsite.com/gammasoft/libraries) [xtd](https://github.com/gammasoft71/xtd) modern c++17 libraries to create console, gui and unit test applications.
+💾 [xtd](https://github.com/gammasoft71/xtd) modern c++17 libraries to create console, gui and unit test applications.
 
 # Statistics
 
