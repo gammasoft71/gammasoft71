@@ -29,7 +29,8 @@
 
 # Visitors
 
-<h3 align="left"><img src="https://hgithub.glitch.me/count.svg" />
+<h3 align="left">
+  <img src="https://hgithub.glitch.me/count.svg" />
 </h3>
 <br>
 <br>
