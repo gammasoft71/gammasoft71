@@ -2,7 +2,9 @@
 
 # Examples
 
-Shows how to use Gui controls with some common toolkits.
+Shows how to use gui controls with some common toolkits.
+
+## Toolkits
 
 |                                                                                                       | Examples                                                          | Language                                                                                                                                           | Github sources                                                                                     | SourceForge projects                                                | Downloads                                                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,7 +20,7 @@ Shows how to use Gui controls with some common toolkits.
 | [![wxPython](pictures/wxPython.png)](https://gammasoft71.wixsite.com/gammasoft/python)           | [wxPython](https://gammasoft71.wixsite.com/gammasoft/python)      | [Python](https://python.org)                                                                                                                       | [Examples_Python](https://github.com/gammasoft71/Examples_Python/tree/master/wxPython)             | [pythonexample](https://sourceforge.net/p/pythonexample/)           | [![Download Examples_Python](https://img.shields.io/sourceforge/dt/pythonexample.svg)](https://sourceforge.net/projects/pythonexample/files/latest/download)            |
 | [![wxwidgets_logo](pictures/wxWidgets.png)](https://gammasoft71.wixsite.com/gammasoft/wxwidgets) | [wxWidgets](https://gammasoft71.wixsite.com/gammasoft/wxwidgets)  | [C++](https://isocpp.org)                                                                                                                          | [Examples_wxWidgets](https://github.com/gammasoft71/Examples_wxWidgets)                            | [wxwidgetsexamples](https://sourceforge.net/p/wxwidgetsexamples/)   | [![Download Examples_wxWidgets](https://img.shields.io/sourceforge/dt/wxwidgetsexamples.svg)](https://sourceforge.net/projects/wxwidgetsexamples/files/latest/download) |
 
-# Languages
+## Languages
 
 |                                                                                                      | Examples                                                       | Github sources                                                    | SourceForge projects                                                | Downloads                                                                                                                                                            |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
