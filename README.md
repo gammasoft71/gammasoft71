@@ -20,4 +20,4 @@
 
 💾 [xtd](https://github.com/gammasoft71/xtd) modern c++17 libraries to create console, gui and unit test applications.
 
-📖 [examples](https://github.com/gammasoft71/examples) shows how to use Gui controls with some common toolkits.
+📖 [examples](https://github.com/gammasoft71/examples) shows how to use gui controls with some common toolkits.
