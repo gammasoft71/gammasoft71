@@ -17,14 +17,6 @@
 <br>
 <br>
 
-# Visitors
-
-<h3 align="left">Visitors<br>
-  <img src="https://hgithub.glitch.me/count.svg" />
-</h3>
-<br>
-<br>
-
 # Trophies
 
 <p align="center">
@@ -32,5 +24,12 @@
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
   </a>
 </p>
+<br>
+<br>
+
+# Visitors
+
+<h3 align="left"><img src="https://hgithub.glitch.me/count.svg" />
+</h3>
 <br>
 <br>
