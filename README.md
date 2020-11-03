@@ -1,4 +1,4 @@
-| [Home](README.md) | [xtd libraries](xtd_libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
+| [Home](README.md) | [xtd libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
 
 # Gammasoft aims to make c++ funny again.
 ![background_img](pictures/gammasoft_background.jpg)
@@ -16,6 +16,10 @@
 * The c++ is my favorite language, naturaly followed by c#.
 * I love Apple products for their simplicity of use but I also admire the technologies of Microsoft for their efficiency as for example the .Net Framework.
 * Gammasoft name was created by analogy to Microsoft. I know... but I was young at this time.
+
+# Main Project
+
+💾  [![xtd_logo](pictures/xtd.png)](https://gammasoft71.wixsite.com/gammasoft/libraries) [xtd](https://github.com/gammasoft71/xtd) modern c++17 libraries to create console, gui and unit test applications.
 
 # Statistics
 

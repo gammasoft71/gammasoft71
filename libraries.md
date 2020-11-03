@@ -1,4 +1,4 @@
-| [Home](README.md) | [xtd libraries](xtd_libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
+| [Home](README.md) | [xtd libraries](libraries.md) | [Examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
 
 [![operating_systems_logo](pictures/operating_systems.png)](https://gammasoft71.wixsite.com/gammasoft)
 
@@ -21,7 +21,7 @@ xtd is composed of several libraries grouped by theme :
 
 |                                                                                                               | Libraries                                             | Examples                                                                        | Reference guide                                             |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [![xtd_logo](pictures/xtd2.png)](https://gammasoft71.wixsite.com/xtd)                                          | [xtd](https://github.com/gammasoft71/xtd)             | [examples](https://github.com/gammasoft71/xtd/tree/master/examples)             | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd)        |
+| [![xtd_logo](pictures/xtd.png)](https://gammasoft71.wixsite.com/gammasoft/libraries)                                          | [xtd](https://github.com/gammasoft71/xtd)             | [examples](https://github.com/gammasoft71/xtd/tree/master/examples)             | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd)        |
 
 ## xtd.tunit
 
