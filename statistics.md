@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
   </a>
 </p>
 <br>
