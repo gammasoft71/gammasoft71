@@ -20,3 +20,10 @@
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=gammasoft71&theme=gruvbox">
 </a>
 <br><br>
+
+# Visitors
+
+<a> 
+  <img align="left" src="https://hgithub.glitch.me/count.svg">
+</a>
+<br><br>
