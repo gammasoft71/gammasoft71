@@ -17,7 +17,7 @@
 * I love Apple products for their simplicity of use but I also admire the technologies of Microsoft for their efficiency as for example the .Net Framework.
 * Gammasoft name was created by analogy to Microsoft. I know... but I was young at this time.
 
-# Main Project
+# Main Projects
 
 💾 [xtd](https://github.com/gammasoft71/xtd) modern c++17 libraries to create console, gui and unit test applications.
 
