@@ -1,11 +1,10 @@
-| [Home](README.md) | [libraries](libraries.md) | [Examples](examples.md) | [Statistics](statistics.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
+| [Home](README.md) | [xtd](xtd.md) | [Examples](examples.md) | [Statistics](statistics.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
 
 # Gammasoft aims to make c++ fun again.
 ![background_img](pictures/gammasoft_background.jpg)
 
 # Gammasoft is...
 
-* only a developer nickname.
 * More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
 * Object-oriented programming is more than a mindset.
 
@@ -18,6 +17,6 @@
 
 # Main Projects
 
-💾 [xtd](https://github.com/gammasoft71/xtd) modern c++17 libraries to create console, gui and unit test applications.
+[xtd](xtd.md) modern c++17 libraries to create console, gui and unit test applications.
 
-📖 [examples](https://github.com/gammasoft71/examples) shows how to use gui controls with some common toolkits.
+examples](examples.md) shows how to use gui controls with some common toolkits.
