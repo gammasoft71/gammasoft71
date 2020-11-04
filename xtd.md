@@ -2,9 +2,9 @@
 
 [![operating_systems_logo](pictures/operating_systems.png)](https://gammasoft71.wixsite.com/gammasoft)
 
-# xtd is ...
+# [xtd](https://github.com/gammasoft71/xtd) is ...
 
-💾 Modern c++17 libraries to create console, gui and unit test applications.
+Modern c++17 libraries to create console, gui and unit test applications.
 
 # Features
 
@@ -13,15 +13,15 @@
 * and highly portable and available on many different platforms (Windows, macOS, Linux, iOS and android);
 
 
-[![architecture_logo](pictures/architecture.png)](libraries.md)
+[![architecture_logo](pictures/architecture.png)](https://github.com/gammasoft71/xtd)
 
 # Libraries
 
-xtd is composed of several libraries grouped by theme :
+[xtd](https://github.com/gammasoft71/xtd) is composed of several libraries grouped by theme :
 
 |                                                                                                               | Libraries                                             | Examples                                                                        | Reference guide                                             |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
-| [![xtd_logo](pictures/xtd.png)](https://gammasoft71.wixsite.com/gammasoft/libraries)                                          | [xtd](https://github.com/gammasoft71/xtd)             | [examples](https://github.com/gammasoft71/xtd/tree/master/examples)             | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd)        |
+| [![xtd_logo](pictures/xtd.png)](https://gammasoft71.wixsite.com/gammasoft/libraries)                          | [xtd](https://github.com/gammasoft71/xtd)             | [examples](https://github.com/gammasoft71/xtd/tree/master/examples)             | [codedocs.xyz](https://codedocs.xyz/gammasoft71/xtd)        |
 
 ## xtd.tunit
 
@@ -187,4 +187,4 @@ For more examples see [examples](https://github.com/gammasoft71/xtd/tree/master/
 
 # Download and install
 
-Before running examples you must download and install xtd.forms. To download and install it read [downloads](https://github.com/gammasoft71/xtd/tree/master/docs/downloads.md) file.
+Before running examples you must download and install xtd. To download and install it read [downloads](https://github.com/gammasoft71/xtd/tree/master/docs/downloads.md) file.
