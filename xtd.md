@@ -13,11 +13,11 @@ Modern c++17 libraries to create console, gui and unit test applications.
 * and highly portable and available on many different platforms (Windows, macOS, Linux, iOS and android);
 
 
-[![architecture_logo](pictures/architecture.png)](https://github.com/gammasoft71/xtd)
+[![architecture_logo](pictures/architecture.png)](https://github.com/gammasoft71/xtd/tree/master/docs/libraries.md)
 
 # Libraries
 
-[xtd](https://github.com/gammasoft71/xtd) is composed of several libraries grouped by theme :
+[xtd](https://github.com/gammasoft71/xtd) is composed of several [libraries](https://github.com/gammasoft71/xtd/tree/master/docs/libraries.md) grouped by theme :
 
 |                                                                                                               | Libraries                                             | Examples                                                                        | Reference guide                                             |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
