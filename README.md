@@ -17,6 +17,6 @@
 
 # Main Projects
 
-[xtd](https://github.com/gammasoft71/xtd/README.md) Modern c++17 framework to create console, gui and unit test applications on Microsoft Windows, Apple macOS and Linux.
+[xtd](https://github.com/gammasoft71/xtd) Modern c++17 framework to create console, gui and unit test applications on Microsoft Windows, Apple macOS and Linux.
 
 [examples](https://github.com/gammasoft71/examples) shows how to use gui controls with some common toolkits.
