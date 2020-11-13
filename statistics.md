@@ -30,7 +30,7 @@
 | CSharp         | [![Download Examples_CSharp](https://img.shields.io/sourceforge/dt/csharpexample.svg)](https://sourceforge.net/projects/csharpexample/files/latest/download)            |
 | Cocoa (AppKit) | [![Download Examples_Cocoa](https://img.shields.io/sourceforge/dt/objectivecexamples.svg)](https://sourceforge.net/projects/objectivecexamples/files/latest/download)   |
 | FLTK           | [![Download Examples_FLTK](https://img.shields.io/sourceforge/dt/fltkexamples.svg)](https://sourceforge.net/projects/fltkexamples/files/latest/download)                |
-| Gtk            | [![Download Examples_Gtk](https://img.shields.io/sourceforge/dt/gtkexamples.svg)](https://sourceforge.net/projects/gtkexamples/files/latest/download)                   |
+<!---| Gtk            | [![Download Examples_Gtk](https://img.shields.io/sourceforge/dt/gtkexamples.svg)](https://sourceforge.net/projects/gtkexamples/files/latest/download)                   |--->
 | Gtkmm          | [![Download Examples_Gtkmm](https://img.shields.io/sourceforge/dt/gtkmmexamples.svg)](https://sourceforge.net/projects/gtkmmexamples/files/latest/download)             |
 | Python         | [![Download Examples_Python](https://img.shields.io/sourceforge/dt/pythonexample.svg)](https://sourceforge.net/projects/pythonexample/files/latest/download)            |
 | Qt             | [![Download Examples_Qt](https://img.shields.io/sourceforge/dt/qtexample.svg)](https://sourceforge.net/projects/qtexample/files/latest/download)                        |
