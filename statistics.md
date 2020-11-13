@@ -1,6 +1,6 @@
-| [Home](README.md) | [xtd](https://github.com/gammasoft71/xtd) | [examples](https://github.com/gammasoft71/examples) || [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) 
+| [Home](README.md) | [xtd](https://github.com/gammasoft71/xtd) | [examples](https://github.com/gammasoft71/examples) || [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) 
 
-# Statistics
+# General
 
 <a href="https://github.com/gammasoft71">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gammasoft71&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Gammasoft's stats" />
@@ -23,7 +23,7 @@
 
 
 <br><br><br><br>
-# Sourceforge download
+# Sourceforge downloads
 
 | examples       | Downloads                                                                                                                                                               |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
