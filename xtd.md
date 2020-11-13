@@ -1,4 +1,4 @@
-| [Home](README.md) | [xtd](xtd.md) | [examples](examples.md) | [Statistics](statistics.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) |
+| [Home](README.md) | [xtd](xtd.md) | [examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) |
 
 [![operating_systems_logo](pictures/operating_systems.png)](https://github.com/gammasoft71/xtd/tree/master/docs/portability.md)
 
