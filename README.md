@@ -1,4 +1,4 @@
-| [Home](README.md) | [xtd](https://github.com/gammasoft71/xtd) | [examples](https://github.com/gammasoft71/examples) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) |
+| [Home](README.md) | [xtd](https://github.com/gammasoft71/xtd/tree/master/docs/home.md) | [examples](https://github.com/gammasoft71/examples/tree/master/README.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) |
 
 # Gammasoft aims to make c++ fun again.
 ![background_img](pictures/gammasoft_background.jpg)
