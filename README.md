@@ -17,7 +17,7 @@
 
 # Main Projects
 
-|                                                                                    | Project                                             | Brief                                                                                                           |
-|------------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-|[![](pictures/xtd.png)](https://github.com/gammasoft71/xtd/tree/master/docs/hom.md) | [xtd](https://github.com/gammasoft71/xtd)           | Modern c++17 framework to create console, gui and unit test applications on Microsoft Windows, Apple macOS and Linux. |
-|[![](pictures/examples.png)](https://github.com/gammasoft71/examples) | [examples](https://github.com/gammasoft71/examples) | shows how to use gui controls with some common toolkits.                                                              |
+|                                                                                     | Project                                                            | Brief                                                                                                           |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|[![](pictures/xtd.png)](https://github.com/gammasoft71/xtd/tree/master/docs/home.md) | [xtd](https://github.com/gammasoft71/xtd/tree/master/docs/home.md) | Modern c++17 framework to create console, gui and unit test applications on Microsoft Windows, Apple macOS and Linux. |
+|[![](pictures/examples.png)](https://github.com/gammasoft71/examples)                | [examples](https://github.com/gammasoft71/examples)                | shows how to use gui controls with some common toolkits.                                                              |
