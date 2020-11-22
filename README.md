@@ -30,4 +30,4 @@
 | [![github_img](pictures/github64.png)](https://github.com/gammasoft71)                  | [https://github.com/gammasoft71](https://github.com/gammasoft71)                       |
 | [![github_img](pictures/sourceforge64.png)](https://sourceforge.net/u/gammasoft71)      | [https://sourceforge.net/u/gammasoft71](https://sourceforge.net/u/gammasoft71)         |
 | [![facebook_img](pictures/facebook64.png)](https://www.facebook.com/gammasoft71)        | [https://www.facebook.com/gammasoft71](https://www.facebook.com/gammasoft71)           |
-| [![twitter_img](pictures/twitter64.png)](https://twitter.com/gammasoft71)               | [https://twitter.com/gammasoft71)                                                      |
+| [![twitter_img](pictures/twitter64.png)](https://twitter.com/gammasoft71)               | [https://twitter.com/gammasoft71](https://twitter.com/gammasoft71)                     |
