@@ -21,3 +21,7 @@
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 |[![](pictures/xtd.png)](https://github.com/gammasoft71/xtd/tree/master/docs/home.md)        | [xtd](https://github.com/gammasoft71/xtd/tree/master/docs/home.md)        | Modern c++17 framework to create console, gui and unit test applications on Microsoft Windows, Apple macOS and Linux. |
 |[![](pictures/examples.png)](https://github.com/gammasoft71/examples/tree/master/README.md) | [examples](https://github.com/gammasoft71/examples/tree/master/README.md) | shows how to use gui controls with some common toolkits.                                                              |
+
+# On the web
+
+| [![gammasoft_img](pictures/gammasoft64.png)](https://gammasoft71.wixsite.com/gammasoft) | [![github_img](pictures/github64.png)](https://github.com/gammasoft71) | [![github_img](pictures/sourceforge64.png)](https://sourceforge.net/u/gammasoft71) | [![facebook_img](pictures/Facebook64.png)](https://www.facebook.com/gammasoft71) | [![twitter_img](pictures/twitter64.png)](https://twitter.com/gammasoft71) |
