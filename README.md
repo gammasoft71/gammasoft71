@@ -1,5 +1,3 @@
-| [Home](README.md) | [Libraries](docs/libraries.md) | [examples](docs/examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](docs/contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](docs/statistics.md) |
-
 # Gammasoft
 
 Gammasoft aims to make c++ fun again.
