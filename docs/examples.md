@@ -4,8 +4,8 @@
 
 |                                                                                                               | Name                                                                                           | Brief                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| [![](pictures/Winforms.png)](https://github.com/gammasoft71/Examples_CSharp/tree/master/System.Windows.Forms) | [Winforms C#](https://github.com/gammasoft71/Examples_CSharp/tree/master/System.Windows.Forms) |Shows how to use .Net Framework controls without RAD only by programming code (CSharp). |
-| [![](pictures/Cocoa.png)](https://github.com/gammasoft71/Examples_Cocoa) | [Cocoa (AppKit) - objective-c](https://github.com/gammasoft71/Examples_Cocoa) | Modern c++17 unit testing framework on Microsoft Windows, Apple macOS, Linux, iOS and android.                             |
+| [![](pictures/Winforms.png)](https://github.com/gammasoft71/Examples_CSharp/tree/master/System.Windows.Forms) | [Winforms C#](https://github.com/gammasoft71/Examples_CSharp/tree/master/System.Windows.Forms) | Shows how to use .Net Framework controls without RAD only by programming code (CSharp).                                    |
+| [![](pictures/Cocoa.png)](https://github.com/gammasoft71/Examples_Cocoa)                                      | [Cocoa (AppKit) - objective-c](https://github.com/gammasoft71/Examples_Cocoa)                  | Shows how to use macOS AppKit Cocoa controls without StoryBoard only by programming code (objective-c).                    |
 
 ______________________________________________________________________________________________
 
