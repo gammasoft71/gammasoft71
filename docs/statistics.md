@@ -35,3 +35,7 @@
 | [Qt](https://sourceforge.net/projects/qtexample/files/stats/timeline)                      | [![Download Examples_Qt](https://img.shields.io/sourceforge/dt/qtexample.svg)](https://sourceforge.net/projects/qtexample/files/latest/download)                        |
 | [Win32](https://sourceforge.net/projects/win32examples/files/stats/timeline)               | [![Download Examples_Win32](https://img.shields.io/sourceforge/dt/win32examples.svg)](https://sourceforge.net/projects/win32examples/files/latest/download)             |
 | [wxWidgets](https://sourceforge.net/projects/wxwidgetsexamples/files/stats/timeline)       | [![Download Examples_wxWidgets](https://img.shields.io/sourceforge/dt/wxwidgetsexamples.svg)](https://sourceforge.net/projects/wxwidgetsexamples/files/latest/download) |
+
+______________________________________________________________________________________________
+
+© 2021 Gammasoft.
