@@ -19,7 +19,7 @@
 
 |                                                                                         | Link                                                                                   |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| [![gammasoft_img](docs/docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) | [https://gammasoft71.wixsite.com/gammasoft](https://gammasoft71.wixsite.com/gammasoft) |
+| [![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) | [https://gammasoft71.wixsite.com/gammasoft](https://gammasoft71.wixsite.com/gammasoft) |
 | [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71)                  | [https://github.com/gammasoft71](https://github.com/gammasoft71)                       |
 | [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71)      | [https://sourceforge.net/u/gammasoft71](https://sourceforge.net/u/gammasoft71)         |
 | [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71)        | [https://www.facebook.com/gammasoft71](https://www.facebook.com/gammasoft71)           |
