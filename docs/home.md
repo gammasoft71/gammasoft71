@@ -19,9 +19,9 @@
 
 |                                                                                         | Link                                                                                   |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| [![gammasoft_img](pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) | [Website](https://gammasoft71.wixsite.com/gammasoft) |
-| [![github_img](pictures/github32.png)](https://github.com/gammasoft71)                  | [Github](https://github.com/gammasoft71)                       |
-| [![github_img](pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71)      | [SourceForge](https://sourceforge.net/u/gammasoft71)         |
-| [![facebook_img](pictures/facebook32.png)](https://www.facebook.com/gammasoft71)        | [Facebook](https://www.facebook.com/gammasoft71)           |
-| [![twitter_img](pictures/twitter32.png)](https://twitter.com/gammasoft71)               | [Twitter](https://twitter.com/gammasoft71)                     |
-| [![mail_img](pictures/mail32.png)](mailto:gammasoft71@gmail.com)                        | [mail](mailto:gammasoft71@gmail.com)                           |
+| [![gammasoft_img](pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) | [https://gammasoft71.wixsite.com/gammasoft](https://gammasoft71.wixsite.com/gammasoft) |
+| [![github_img](pictures/github32.png)](https://github.com/gammasoft71)                  | [https://github.com/gammasoft71](https://github.com/gammasoft71)                       |
+| [![github_img](pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71)      | [https://sourceforge.net/u/gammasoft71](https://sourceforge.net/u/gammasoft71)         |
+| [![facebook_img](pictures/facebook32.png)](https://www.facebook.com/gammasoft71)        | [https://www.facebook.com/gammasoft71](https://www.facebook.com/gammasoft71)           |
+| [![twitter_img](pictures/twitter32.png)](https://twitter.com/gammasoft71)               | [https://twitter.com/gammasoft71](https://twitter.com/gammasoft71)                     |
+| [![mail_img](pictures/mail32.png)](mailto:gammasoft71@gmail.com)                        | [mailto:gammasoft71@gmail.com](mailto:gammasoft71@gmail.com)                           |
