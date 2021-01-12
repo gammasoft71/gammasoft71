@@ -8,7 +8,7 @@
 * More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
 * Object-oriented programming is more than a mindset.
 
-![background_img](docs/docs/pictures/gammasoft.png)
+![background_img](docs/pictures/gammasoft.png)
 
 # ... also
 * The c++ is my favorite language, naturaly followed by c#.
