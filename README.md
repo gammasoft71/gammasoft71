@@ -2,7 +2,7 @@
 
 **Gammasoft aims to make c++ fun again.**
 
-![background_img](docs/pictures/gammasoft.png)
+<!--- ![background_img](docs/pictures/gammasoft.png) --->
 
 # About
 
