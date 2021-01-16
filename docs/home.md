@@ -1,6 +1,6 @@
 | [Home](home.md) | [Libraries](libraries.md) | [examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) |
 
-![background_img](pictures/gammasoft_background.jpg)
+![background_img](pictures/gammasoft_background.png)
 
 # Gammasoft is...
 
