@@ -5,7 +5,7 @@
 |                                                                         | Project                                               | Brief                                                                                                                  |
 |-------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | [![](pictures/xtd.png)](https://github.com/gammasoft71/xtd)             | [xtd](https://github.com/gammasoft71/xtd)             | Modern c++17/20 framework to create console, GUI and unit test applications on Windows, macOS, Linux, iOS and android. |
-| [![](pictures/tunit.png)](https://github.com/gammasoft71/tunit)         | [xtd.tunit](https://github.com/gammasoft71/tunit)     | Modern c++17 unit testing framework on Windows, macOS, Linux, iOS and android.                                         |
+| [![](pictures/tunit.png)](https://github.com/gammasoft71/tunit)         | [tunit](https://github.com/gammasoft71/tunit)         | Modern c++17 unit testing framework on Windows, macOS, Linux, iOS and android.                                         |
 
 ______________________________________________________________________________________________
 
