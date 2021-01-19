@@ -28,7 +28,7 @@
 | libraries                                                                      | Downloads                                                                                                                                   |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | [xtd](https://sourceforge.net/projects/xtdpro/files/stats/timeline)            | [![Download xtd](https://img.shields.io/sourceforge/dt/xtdpro.svg)](https://sourceforge.net/projects/xtdpro/files/latest/download)          |
-| [tunit](https://sourceforge.net/projects/tunit/files/stats/timeline)           | [![Download tunit](https://img.shields.io/sourceforge/dt/tunit.svg)](https://sourceforge.net/projects/tunit/files/latest/download)          |
+| [tunit](https://sourceforge.net/projects/tunitpro/files/stats/timeline)        | [![Download tunit](https://img.shields.io/sourceforge/dt/tunitpro.svg)](https://sourceforge.net/projects/tunitpro/files/latest/download)    |
 | [delegates](https://sourceforge.net/projects/delegates/files/stats/timeline)   | [![Download xttd](https://img.shields.io/sourceforge/dt/delegates.svg)](https://sourceforge.net/projects/delegates/files/latest/download)   |
 | [properties](https://sourceforge.net/projects/properties/files/stats/timeline) | [![Download xttd](https://img.shields.io/sourceforge/dt/properties.svg)](https://sourceforge.net/projects/properties/files/latest/download) |
 
