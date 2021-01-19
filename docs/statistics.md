@@ -25,8 +25,15 @@
 <br><br><br><br>
 # Sourceforge downloads
 
-| examples                                                                            | Downloads                                                                                                                                                               |
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| libraries                                                                      | Downloads                                                                                                                                   |
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| [xtd](https://sourceforge.net/projects/xtdpro/files/stats/timeline)            | [![Download xtd](https://img.shields.io/sourceforge/dt/xtdpro.svg)](https://sourceforge.net/projects/xtdpro/files/latest/download)          |
+| [tunit](https://sourceforge.net/projects/tunit/files/stats/timeline)           | [![Download tunit](https://img.shields.io/sourceforge/dt/tunit.svg)](https://sourceforge.net/projects/tunit/files/latest/download)          |
+| [delegates](https://sourceforge.net/projects/delegates/files/stats/timeline)   | [![Download xttd](https://img.shields.io/sourceforge/dt/delegates.svg)](https://sourceforge.net/projects/delegates/files/latest/download)   |
+| [properties](https://sourceforge.net/projects/properties/files/stats/timeline) | [![Download xttd](https://img.shields.io/sourceforge/dt/properties.svg)](https://sourceforge.net/projects/properties/files/latest/download) |
+
+| examples                                                                                   | Downloads                                                                                                                                                               |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [CSharp](https://sourceforge.net/projects/csharpexample/files/stats/timeline)              | [![Download Examples_CSharp](https://img.shields.io/sourceforge/dt/csharpexample.svg)](https://sourceforge.net/projects/csharpexample/files/latest/download)            |
 | [Cocoa (AppKit)](https://sourceforge.net/projects/objectivecexamples/files/stats/timeline) | [![Download Examples_Cocoa](https://img.shields.io/sourceforge/dt/objectivecexamples.svg)](https://sourceforge.net/projects/objectivecexamples/files/latest/download)   |
 | [FLTK](https://sourceforge.net/projects/fltkexamples/files/stats/timeline)                 | [![Download Examples_FLTK](https://img.shields.io/sourceforge/dt/fltkexamples.svg)](https://sourceforge.net/projects/fltkexamples/files/latest/download)                |
