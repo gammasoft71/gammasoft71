@@ -24,3 +24,14 @@ for more info see :
 | [![](docs/pictures/delegates.png)](https://github.com/gammasoft71/delegates)   | [delegates](https://github.com/gammasoft71/delegates)   | Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.        |
 | [![](docs/pictures/properties.png)](https://github.com/gammasoft71/properties) | [properties](https://github.com/gammasoft71/properties) | another c#-like property accessor for C++11 and above on Windows, macOS, Linux, iOS and android.                       |
 | [![](docs/pictures/examples.png)](https://github.com/gammasoft71/examples)     | [examples](https://github.com/gammasoft71/examples)     | shows how to use gui controls with some common toolkits.                                                               |
+
+# On the web
+
+|                                                                                         | Link                                                                                   |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [![gammasoft_img](pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) | [https://gammasoft71.wixsite.com/gammasoft](https://gammasoft71.wixsite.com/gammasoft) |
+| [![github_img](pictures/github32.png)](https://github.com/gammasoft71)                  | [https://github.com/gammasoft71](https://github.com/gammasoft71)                       |
+| [![github_img](pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71)      | [https://sourceforge.net/u/gammasoft71](https://sourceforge.net/u/gammasoft71)         |
+| [![facebook_img](pictures/facebook32.png)](https://www.facebook.com/gammasoft71)        | [https://www.facebook.com/gammasoft71](https://www.facebook.com/gammasoft71)           |
+| [![twitter_img](pictures/twitter32.png)](https://twitter.com/gammasoft71)               | [https://twitter.com/gammasoft71](https://twitter.com/gammasoft71)                     |
+| [![mail_img](pictures/mail32.png)](mailto:gammasoft71@gmail.com)                        | [mailto:gammasoft71@gmail.com](mailto:gammasoft71@gmail.com)                           |
