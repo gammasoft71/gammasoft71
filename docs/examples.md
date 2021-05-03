@@ -15,7 +15,7 @@
 | [![](pictures/Qt.png)](https://github.com/gammasoft71/Examples_Qt)                                            | [Qt Widgets / Qt Quick - c++](https://github.com/gammasoft71/Examples_Qt)                                  | Shows how to use Qt widgets and Qt Quick only by programming code (c++17).                                     |
 | [![](pictures/Win32.png)](https://github.com/gammasoft71/Examples_Win32/tree/master/Win32.Gui)                | [Win32 API - c++ - Windows](https://github.com/gammasoft71/Examples_Win32/tree/master/Win32.Gui)           | Shows how to use Win32 controls by programming code (c++17).                                                   |
 | [![](pictures/wxPython.png)](https://github.com/gammasoft71/Examples_Python/tree/master/wxPython)             | [wxPython - Python](https://github.com/gammasoft71/Examples_Python/tree/master/wxPython)                   | Shows how to use wxPython controls only by programming code (Python).                                          |
-| [![](pictures/wxWidgets.png)](https://github.com/gammasoft71/Examples_wxWidgets)                              | [wxWidgets - c++](https://github.com/gammasoft71/Examples_wxWidgets/README.md)                                       | Shows how to use wxWidgets controls only by programming code (c++17).                                          |
+| [![](pictures/wxWidgets.png)](https://github.com/gammasoft71/Examples_wxWidgets/README.md)                              | [wxWidgets - c++](https://github.com/gammasoft71/Examples_wxWidgets)                                       | Shows how to use wxWidgets controls only by programming code (c++17).                                          |
 
 ## Languages
 
