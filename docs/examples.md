@@ -24,7 +24,7 @@
 | [![](pictures/C.png)](https://github.com/gammasoft71/Examples_C)               | [c](https://github.com/gammasoft71/Examples_C)               | c11 examples.         |
 | [![](pictures/CSharp.png)](https://github.com/gammasoft71/Examples_CSharp)     | [c#](https://github.com/gammasoft71/Examples_CSharp)        | c# examples.          |
 | [![](pictures/Cpp.png)](https://github.com/gammasoft71/Examples_Cpp)           | [c++](https://github.com/gammasoft71/Examples_Cpp)           | c++17 examples.       |
-| [![](pictures/Objective-c.png)](https://github.com/gammasoft71/Examples_Cocoa) | [Objective-c](https://github.com/gammasoft71/Examples_Cocoa) | objective-c examples. |
+| [![](pictures/Cocoa.png)](https://github.com/gammasoft71/Examples_Cocoa) | [Objective-c](https://github.com/gammasoft71/Examples_Cocoa) | objective-c examples. |
 | [![](pictures/Python.png)](https://github.com/gammasoft71/Examples_Python)   | [Python](https://github.com/gammasoft71/Examples_Python)     | python examples.      |
 
 ______________________________________________________________________________________________
