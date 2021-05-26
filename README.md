@@ -19,11 +19,11 @@ for more info see :
 
 |                                                                                | Project                                                 | Brief                                                                                                                  |
 |--------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| [![](docs/pictures/xtd.png)](https://github.com/gammasoft71/xtd)               | [xtd](https://github.com/gammasoft71/xtd)               | Modern c++17/20 framework to create console, forms (GUI like WinForms) and unit test applications on Windows, macOS, Linux, iOS and android. |
-| [![](docs/pictures/tunit.png)](https://github.com/gammasoft71/tunit)           | [tunit](https://github.com/gammasoft71/tunit)           | Modern c++17 unit testing framework on Windows, macOS, Linux, iOS and android.                                         |
-| [![](docs/pictures/delegates.png)](https://github.com/gammasoft71/delegates)   | [delegates](https://github.com/gammasoft71/delegates)   | Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.        |
-| [![](docs/pictures/properties.png)](https://github.com/gammasoft71/properties) | [properties](https://github.com/gammasoft71/properties) | another c#-like property accessor for C++11 and above on Windows, macOS, Linux, iOS and android.                       |
-| [![](docs/pictures/examples.png)](https://github.com/gammasoft71/examples)     | [examples](https://github.com/gammasoft71/examples)     | shows how to use gui controls with some common toolkits.                                                               |
+| [![](docs/pictures/xtd.png)](https://github.com/gammasoft71/xtd/README.md)               | [xtd](https://github.com/gammasoft71/xtd)               | Modern c++17/20 framework to create console, forms (GUI like WinForms) and unit test applications on Windows, macOS, Linux, iOS and android. |
+| [![](docs/pictures/tunit.png)](https://github.com/gammasoft71/tunit/README.md)           | [tunit](https://github.com/gammasoft71/tunit)           | Modern c++17 unit testing framework on Windows, macOS, Linux, iOS and android.                                         |
+| [![](docs/pictures/delegates.png)](https://github.com/gammasoft71/delegates/README.md)   | [delegates](https://github.com/gammasoft71/delegates)   | Modern c++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.        |
+| [![](docs/pictures/properties.png)](https://github.com/gammasoft71/properties/README.md) | [properties](https://github.com/gammasoft71/properties) | another c#-like property accessor for C++11 and above on Windows, macOS, Linux, iOS and android.                       |
+| [![](docs/pictures/examples.png)](https://github.com/gammasoft71/examples/README.md)     | [examples](https://github.com/gammasoft71/examples)     | shows how to use gui controls with some common toolkits.                                                               |
 
 # On the web
 
