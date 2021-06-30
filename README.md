@@ -35,3 +35,5 @@ For more info see :
 | [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71)        | [Facebook](https://www.facebook.com/gammasoft71)     | [https://www.facebook.com/gammasoft71](https://www.facebook.com/gammasoft71)           |
 | [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71)               | [Twitter](https://twitter.com/gammasoft71)           | [https://twitter.com/gammasoft71](https://twitter.com/gammasoft71)                     |
 | [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com)                        | [Mail](mailto:gammasoft71@gmail.com)                 | [mailto:gammasoft71@gmail.com](mailto:gammasoft71@gmail.com)                           |
+
+[ ](docs/statistics.md)
