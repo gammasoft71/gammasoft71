@@ -27,4 +27,4 @@ For more info see :
 
 ___
   
-<div style="text-align: right">[![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71) [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71) [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71) [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71) [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com) </div>
+[![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71) [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71) [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71) [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71) [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com)
