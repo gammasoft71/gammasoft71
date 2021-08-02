@@ -25,8 +25,6 @@ For more info see :
 | [![](docs/pictures/properties.png)](https://github.com/gammasoft71/properties/blob/master/README.md) | [properties](https://github.com/gammasoft71/properties/blob/master/README.md) | another c#-like property accessor for C++11 and above on Windows, macOS, Linux, iOS and android.                       |
 | [![](docs/pictures/examples.png)](https://github.com/gammasoft71/examples/blob/master/README.md)     | [examples](https://github.com/gammasoft71/examples/blob/master/README.md)     | shows how to use gui controls with some common toolkits.                                                               |
 
-<br><br> [![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71) [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71) [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71) [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71) [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com) <br>
- 
 ______________________________________________________________________________________________
 
-© 2021 Gammasoft.
+[![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71) [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71) [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71) [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71) [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com)
