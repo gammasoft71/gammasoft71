@@ -14,3 +14,7 @@
 * The c++ is my favorite language, naturaly followed by c#.
 * I like Apple products for their simplicity of use but I also admire the technologies of Microsoft for their efficiency as for example the .Net Framework.
 * Gammasoft name was created by analogy to Microsoft. I know... but I was young at this time.
+
+______________________________________________________________________________________________
+
+© 2021 Gammasoft.
