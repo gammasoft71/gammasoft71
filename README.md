@@ -9,7 +9,7 @@
 * More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
 * Object-oriented programming is more than a mindset.
 
-For more info see :
+## For more info see
 
 * [website](https://gammasoft71.wixsite.com/gammasoft)
 * [markdown documentations](docs/home.md)
