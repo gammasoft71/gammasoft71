@@ -12,7 +12,7 @@
 ## For more info see
 
 * [website](https://gammasoft71.wixsite.com/gammasoft)
-* [markdown documentations](docs/home.md)
+* [wiki](docs/home.md)
 * [sources](https://github.com/gammasoft71)
 * [Projects](https://sourceforge.net/u/gammasoft71)
 
