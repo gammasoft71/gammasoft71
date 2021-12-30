@@ -2,7 +2,7 @@
 
 # Statistics
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=gammasoft71&theme=dark&hide_title=true&hide_border=true&show_icons=true&icon_color=9F9F9F&bg_color=23272D&text_color=9F9F9F&border_color=9F9F9F&border_radius=4)](https://github.com/gammasoft71/gammasoft71/blob/main/docs/statistics.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=gammasoft71&theme=dark&hide_title=true&show_icons=true&icon_color=9F9F9F&bg_color=23272D&text_color=9F9F9F&border_color=9F9F9F&border_radius=4)](https://github.com/gammasoft71/gammasoft71/blob/main/docs/statistics.md)
 
 # Sourceforge downloads
 
