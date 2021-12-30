@@ -2,7 +2,7 @@
 
 # Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=gammasoft71&theme=dark&border_radius=4" alt="Stats"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=gammasoft71&show_icons=true&icon_color=FFFFFF&theme=dark&border_radius=4&hide_title=true" alt="Stats"/></p>
 
 # Sourceforge downloads
 
