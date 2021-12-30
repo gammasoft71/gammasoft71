@@ -2,7 +2,7 @@
 
 # Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=gammasoft71&show_icons=true&icon_color=FFFFFF&theme=dark&border_radius=4&hide_title=true" alt="Stats"/></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=gammasoft71&show_icons=true&icon_color=FFFFFF&theme=dark&border_radius=4&hide_title=true)](https://github.com/gammasoft71/gammasoft71/blob/main/docs/statistics.md)
 
 # Sourceforge downloads
 
