@@ -1,5 +1,9 @@
 | [Home](home.md) | [Libraries](libraries.md) | [examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Contact](contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) | [Statistics](statistics.md) | 
 
+# Statistics
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=gammasoft71&theme=dark&border_radius=4" alt="Stats"/></p>
+
 # Sourceforge downloads
 
 | libraries                                                                      | Downloads                                                                                                                                   |
