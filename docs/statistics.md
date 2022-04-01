@@ -24,6 +24,10 @@
 | [Win32](https://sourceforge.net/projects/win32examples/files/stats/timeline)               | [![Download Examples_Win32](https://img.shields.io/sourceforge/dt/win32examples.svg)](https://sourceforge.net/projects/win32examples/files/latest/download)             |
 | [wxWidgets](https://sourceforge.net/projects/wxwidgetsexamples/files/stats/timeline)       | [![Download Examples_wxWidgets](https://img.shields.io/sourceforge/dt/wxwidgetsexamples.svg)](https://sourceforge.net/projects/wxwidgetsexamples/files/latest/download) |
 
+# xtd star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gammasoft71/xtd&type=Date)](https://star-history.com/#gammasoft71/xtd&Date)
+
 ______________________________________________________________________________________________
 
 © 2021 Gammasoft.
