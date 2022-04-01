@@ -24,9 +24,9 @@
 | [Win32](https://sourceforge.net/projects/win32examples/files/stats/timeline)               | [![Download Examples_Win32](https://img.shields.io/sourceforge/dt/win32examples.svg)](https://sourceforge.net/projects/win32examples/files/latest/download)             |
 | [wxWidgets](https://sourceforge.net/projects/wxwidgetsexamples/files/stats/timeline)       | [![Download Examples_wxWidgets](https://img.shields.io/sourceforge/dt/wxwidgetsexamples.svg)](https://sourceforge.net/projects/wxwidgetsexamples/files/latest/download) |
 
-# xtd star history
+# Star history
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gammasoft71/xtd&type=Date)](https://star-history.com/#gammasoft71/xtd&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gammasoft71/xtd,gammasoft71/Examples_wxWidgets,gammasoft71/Examples_Qt,gammasoft71/Examples_Cocoa,gammasoft71/Examples_Win32,gammasoft71/Examples_Gtkmm,gammasoft71/Examples_FLTK,gammasoft71/properties,gammasoft71/tunit,gammasoft71/Examples_Gtk,gammasoft71/delegates,gammasoft71/Examples_CSharp,gammasoft71/Examples_Python&type=Date)](https://star-history.com/#gammasoft71/xtd&gammasoft71/Examples_wxWidgets&gammasoft71/Examples_Qt&gammasoft71/Examples_Cocoa&gammasoft71/Examples_Win32&gammasoft71/Examples_Gtkmm&gammasoft71/Examples_FLTK&gammasoft71/properties&gammasoft71/tunit&gammasoft71/Examples_Gtk&gammasoft71/delegates&gammasoft71/Examples_CSharp&gammasoft71/Examples_Python&Date)
 
 ______________________________________________________________________________________________
 
