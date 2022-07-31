@@ -19,13 +19,6 @@
 | [![](docs/pictures/properties.png)](https://github.com/gammasoft71/properties) | [properties](https://github.com/gammasoft71/properties) | another C#-like property accessor for C++11 and above on Windows, macOS, Linux, iOS and android.                       |
 | [![](docs/pictures/examples.png)](https://github.com/gammasoft71/examples)     | [examples](https://github.com/gammasoft71/examples)     | shows how to use gui controls with some common toolkits.                                                               |
 
-## For more info see
-
-* [website](https://gammasoft71.wixsite.com/gammasoft)
-* [wiki](https://github.com/gammasoft71/gammasoft71/wiki)
-* [sources](https://github.com/gammasoft71)
-* [Projects](https://sourceforge.net/u/gammasoft71)
-
 ______________________________________________________________________________________________
 
-[![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71) [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71) [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71) [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71) [![discord_img](docs/pictures/discord32.png)](https://discordapp.com/users/gammasoft#9288) [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com)
+[![gammasoft_img](docs/pictures/gammasoft32.png)](https://gammasoft71.wixsite.com/gammasoft) [![github_img](docs/pictures/github32.png)](https://github.com/gammasoft71/wiki) [![github_img](docs/pictures/sourceforge32.png)](https://sourceforge.net/u/gammasoft71) [![facebook_img](docs/pictures/facebook32.png)](https://www.facebook.com/gammasoft71) [![twitter_img](docs/pictures/twitter32.png)](https://twitter.com/gammasoft71) [![discord_img](docs/pictures/discord32.png)](https://discordapp.com/users/gammasoft#9288) [![mail_img](docs/pictures/mail32.png)](mailto:gammasoft71@gmail.com)
