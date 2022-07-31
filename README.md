@@ -9,13 +9,6 @@
 * More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
 * Object-oriented programming is more than a mindset.
 
-## For more info see
-
-* [website](https://gammasoft71.wixsite.com/gammasoft)
-* [wiki](https://github.com/gammasoft71/gammasoft71/wiki)
-* [sources](https://github.com/gammasoft71)
-* [Projects](https://sourceforge.net/u/gammasoft71)
-
 # Main projects
 
 |                                                                                | Project                                                 | Brief                                                                                                                  |
@@ -25,6 +18,13 @@
 | [![](docs/pictures/delegates.png)](https://github.com/gammasoft71/delegates)   | [delegates](https://github.com/gammasoft71/delegates)   | Modern C++17 library containing multicast delegate and event classes on Windows, macOS, Linux, iOS and android.        |
 | [![](docs/pictures/properties.png)](https://github.com/gammasoft71/properties) | [properties](https://github.com/gammasoft71/properties) | another C#-like property accessor for C++11 and above on Windows, macOS, Linux, iOS and android.                       |
 | [![](docs/pictures/examples.png)](https://github.com/gammasoft71/examples)     | [examples](https://github.com/gammasoft71/examples)     | shows how to use gui controls with some common toolkits.                                                               |
+
+## For more info see
+
+* [website](https://gammasoft71.wixsite.com/gammasoft)
+* [wiki](https://github.com/gammasoft71/gammasoft71/wiki)
+* [sources](https://github.com/gammasoft71)
+* [Projects](https://sourceforge.net/u/gammasoft71)
 
 ______________________________________________________________________________________________
 
