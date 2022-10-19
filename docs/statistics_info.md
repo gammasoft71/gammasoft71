@@ -10,8 +10,7 @@
 
 # Wakatime statisctics
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gammasoft71)](https://github.com/gammasoft71/gammasoft71/blob/main/docs/statistics.md)
-
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gammasoft71)](https://github.com/gammasoft71/gammasoft71/blob/main/docs/statistics.md)
 ______________________________________________________________________________________________
 
 © 2021 Gammasoft.
