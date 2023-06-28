@@ -1,9 +1,20 @@
 | [Home](home.md) | [Libraries](libraries.md) | [examples](examples.md) | [Projects](https://sourceforge.net/u/gammasoft71) | [Statistics](statistics.md) | [Contact](contact.md) | [Website](https://gammasoft71.wixsite.com/gammasoft) |
 
+# Github statistics
 
-# Statistics
+[![Stats](https://github-readme-stats.vercel.app/api?username=gammasoft71&theme=transparent&hide_title=true&hide_border=true&show_icons=true&icon_color=9F9F9F&bg_color=23272D&text_color=9F9F9F&border_color=9F9F9F&border_radius=4)](statistics.md)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=gammasoft71&theme=transparent&hide_title=true&hide_border=true&hide=prs,issues,contribs&hide_rank=true&show_icons=true&icon_color=9F9F9F&bg_color=23272D&text_color=9F9F9F&border_color=9F9F9F&border_radius=4)](https://github.com/gammasoft71/gammasoft71/blob/main/docs/statistics_info.md)
+# Profile details
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gammasoft71&theme=transparent&hide_title=true)](statistics.md)
+
+# Commits
+
+[![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gammasoft71&theme=transparent&hide_title=true)](statistics.md)
+
+# Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gammasoft71&layout=donut-vertical&theme=transparent&hide_title=true&hide_border=true&show_icons=true&icon_color=9F9F9F&bg_color=23272D&text_color=9F9F9F&border_color=9F9F9F&border_radius=4)](statistics.md)
 
 # Sourceforge downloads
 
