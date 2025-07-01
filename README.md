@@ -1,6 +1,6 @@
 # Gammasoft
 
-**Gammasoft aims to make c++ fun again.**
+**Gammasoft aims to make C++ fun again.**
 
 <!--- ![background_img](docs/pictures/gammasoft.png) --->
 
