@@ -6,7 +6,7 @@
 
 # About
 
-* Gammasoft is the nickname of [Yves Fiumefreddo)](https://yfiumefreddo.github.io).
+* Gammasoft is the nickname of [Yves Fiumefreddo)](https://github.com/yfiumefreddo).
 * More than thirty years of passion for high technology especially in development (c++, c#, objective-c, ...).
 * Object-oriented programming is more than a mindset.
 * [more info](https://github.com/gammasoft71/gammasoft71/wiki)
